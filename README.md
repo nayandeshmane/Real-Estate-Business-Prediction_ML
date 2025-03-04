@@ -79,3 +79,7 @@
         <li>Explore more advanced models such as decision trees, random forests, and gradient boosting for improved accuracy.</li>
         <li>Integrate external data such as location-based data, neighborhood trends, and market indicators for better predictions.</li>
     </ul>
+     <h2>Preview</h2>
+    <img src="GUI1.png" alt="GUI1" style="max-width:100%; height:auto;">
+    <img src="GUI2.png" alt="GUI2" style="max-width:100%; height:auto;">
+    <hr>
